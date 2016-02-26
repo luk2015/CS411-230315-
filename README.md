@@ -1,2 +1,2 @@
-# CS4111
+# CS411
 Repository for Events Website
